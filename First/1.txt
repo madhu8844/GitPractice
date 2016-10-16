@@ -1,4 +1,0 @@
-Hello This is my 
-First Repository Based Git Practice
-
-This changes are made from windows machines
