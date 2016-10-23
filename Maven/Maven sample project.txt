@@ -1,0 +1,25 @@
+
+Maven project in 5 mins:
+
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html:
+
+Maven downloads   : https://maven.apache.org/download.cgi
+Maven Installation: http://maven.apache.org/install.html
+
+
+
+Creating a project :
+
+mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+1. maven compile
+
+2. maven Test
+
+3. maven package
+
+ 
+
+
+
+
