@@ -1,0 +1,10 @@
+
+Maven project in 5 mins
+maven compile
+maven Test
+maven package
+
+  package can be jar/war ()	
+	
+
+
