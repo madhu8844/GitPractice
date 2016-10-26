@@ -1,0 +1,1 @@
+default["mypackage"]["name"] = 'ngnix'
